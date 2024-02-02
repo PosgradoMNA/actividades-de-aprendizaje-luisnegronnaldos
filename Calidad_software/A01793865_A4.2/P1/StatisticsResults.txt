@@ -1,0 +1,77 @@
+TC1
+
+Count: 399
+Mean: 241.91228070175438
+Median: 239.0
+Mode: [393.0, 170.0]
+Standard Deviation: 145.21124470416453
+Variance: 21086.30558853275
+
+Execution time: 0.0013918876647949219 seconds
+
+TC2
+
+Count: 1977
+Mean: 250.7840161861406
+Median: 247.0
+Mode: [230.0]
+Standard Deviation: 144.17131868884059
+Variance: 20785.369132479238
+
+Execution time: 0.005337238311767578 seconds
+
+TC3
+
+Count: 12624
+Mean: 249.77621989860583
+Median: 249.0
+Mode: [94.0]
+Standard Deviation: 145.31784980917962
+Variance: 21117.27747316329
+
+Execution time: 0.00858616828918457 seconds
+
+TC4
+
+Count: 12624
+Mean: 149.00267347908746
+Median: 147.75
+Mode: [123.75]
+Standard Deviation: 130.41441961308894
+Variance: 17007.920843018837
+
+Execution time: 0.011427879333496094 seconds
+
+TC5
+
+Count: 307
+Mean: 241.49511400651465
+Median: 241.0
+Mode: [393.0, 19.0, 368.0, 290.0, 56.0, 11.0, 76.0, 215.0, 64.0, 375.0, 466.0, 277.0, 211.0, 46.0, 278.0, 170.0, 166.0, 96.0, 268.0]
+Standard Deviation: 145.46484786056646
+Variance: 21160.021963097748
+
+Execution time: 0.00133514404296875 seconds
+
+TC6
+
+Count: 3000
+Mean: 1.8790659927977473e+20
+Median: 1.88008049965543e+20
+Mode: N/A
+Standard Deviation: 1.0738205017381e+20
+Variance: 1.1530904699530647e+40
+
+Execution time: 0.0016181468963623047 seconds
+
+TC7
+
+Count: 12767
+Mean: 2.474673954997149e+20
+Median: 2.4664097307429e+20
+Mode: N/A
+Standard Deviation: 1.4460564700984703e+20
+Variance: 2.0910793147136484e+40
+
+Execution time: 0.0059278011322021484 seconds
+
