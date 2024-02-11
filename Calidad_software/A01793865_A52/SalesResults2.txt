@@ -1,0 +1,2 @@
+Total Cost: $166568.23
+Time Elapsed: 0.0033 seconds
